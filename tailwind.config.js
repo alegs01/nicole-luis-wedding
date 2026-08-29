@@ -4,11 +4,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        fucsia: '#C93A8B',
-        coral: '#F26A4B',
-        ivory: '#F8F4EE',
-        verde: '#3E5B3A',
-        dorado: '#D8A928',
+        fucsia: '#E91E63',
+        rosa: '#FF4F91',
+        coral: '#FF7043',
+        mandarina: '#FF8A3D',
+        naranja: '#F4511E',
+        amarillo: '#FFB300',
+        lima: '#8BC34A',
+        verde: '#4F7D3A',
+        ivory: '#FFF9F2',
+        dorado: '#D4A017',
       },
       fontFamily: {
         playfair: ['Playfair Display', 'serif'],
