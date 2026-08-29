@@ -96,7 +96,7 @@ export default function Hero() {
   >
     {/* Imagen */}
     <img
-      src="/images/fotonovios2.jpg"
+      src="/images/fotonovios2.JPG"
       alt="Nicole y Luis"
       className="absolute inset-0 w-full h-full object-cover"
     />

@@ -48,7 +48,7 @@ export default function Closing() {
             ✏️ CONTACTO: Reemplaza los placeholders con datos reales
           */}
           <a
-            href="https://wa.me/56XXXXXXXXX"  // ← Reemplazar con número real
+            href="https://wa.me/56XXXXXXXXX"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#3E5B3A] text-white font-inter text-sm tracking-wide hover:bg-[#2d4329] transition-colors duration-200"
@@ -59,7 +59,7 @@ export default function Closing() {
             WhatsApp
           </a>
           <a
-            href="mailto:correo@ejemplo.com"  // ← Reemplazar con email real
+            href="mailto:correo@ejemplo.com"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full border border-[#C93A8B]/40 text-[#C93A8B] font-inter text-sm tracking-wide hover:bg-[#C93A8B]/5 transition-colors duration-200"
           >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
